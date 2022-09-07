@@ -1,5 +1,5 @@
 {
-    "$id": "https://example.com/calendar.schema.json",
+    "$id": "https://raw.githubusercontent.com/FlavioLionelRita/test-data/main/json-schema/calendar.schema.json",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "description": "A representation of an event",
     "type": "object",
@@ -41,7 +41,7 @@
         "type": "string"
       },
       "geo": {
-        "$ref": "https://example.com/geographical-location.schema.json"
+        "$ref": "https://raw.githubusercontent.com/FlavioLionelRita/test-data/main/json-schema/geographical-location.schema.json"
       }
     }
   }

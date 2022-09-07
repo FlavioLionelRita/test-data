@@ -1,5 +1,5 @@
 {
-    "$id": "https://example.com/person.schema.json",
+    "$id": "https://raw.githubusercontent.com/FlavioLionelRita/test-data/main/json-schema/person.schema.json",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "title": "Person",
     "type": "object",

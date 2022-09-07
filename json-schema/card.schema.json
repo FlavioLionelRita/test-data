@@ -1,5 +1,5 @@
 {
-    "$id": "https://example.com/card.schema.json",
+    "$id": "https://raw.githubusercontent.com/FlavioLionelRita/test-data/main/json-schema/card.schema.json",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "description": "A representation of a person, company, organization, or place",
     "type": "object",
@@ -61,8 +61,8 @@
           }
         }
       },
-      "adr": { "$ref": "https://example.com/address.schema.json" },
-      "geo": { "$ref": "https://example.com/geographical-location.schema.json" },
+      "adr": { "$ref": "https://raw.githubusercontent.com/FlavioLionelRita/test-data/main/json-schema/address.schema.json" },
+      "geo": { "$ref": "https://raw.githubusercontent.com/FlavioLionelRita/test-data/main/json-schema/geographical-location.schema.json" },
       "tz": {
         "type": "string"
       },
